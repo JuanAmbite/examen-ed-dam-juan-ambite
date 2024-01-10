@@ -1,1 +1,5 @@
-print("Hola Amigos")
+
+
+Mensaje = ', Gracias por su atencion'
+print("Hola Amigos {Mensaje}")
+
